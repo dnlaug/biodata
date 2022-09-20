@@ -13,7 +13,7 @@ npm start
 module.exports = {
   HOST: "localhost",
   USER: "root",
-  PASSWORD: "add your password password here",
+  PASSWORD: "add your password here",
   DB: "bio",
   dialect: "mysql",
   pool: {
